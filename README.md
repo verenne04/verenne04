@@ -17,8 +17,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 Here are some of the tools and technologies I'm currently learning or working with:
 
-- **Languages**: Python, C++, and a bit of JavaScript.
-- **Tools**: Git, VS Code, and MATLAB.
+- **Languages**: Python, C++, R.
+- **Tools**: Git, VS Code, and R studio.
 - **Interests**: Data analysis, machine learning, and healthcare innovations.
 
 ---
